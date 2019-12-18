@@ -14,7 +14,7 @@ cd ./phone-number-formatter
 This project was built using yarn. To install ```yarn install``` or ```npm install```
 
 ## Starting the app
-With yarn ```yarn start``
+With yarn ```yarn start```
 
 or ```node app.js```
 
